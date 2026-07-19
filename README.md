@@ -10,6 +10,4 @@ Built an interactive Power BI dashboard analysing retail sales performance.
 - Excel
 
 ## Key Insights
-- Electronics generated highest revenue
-- November showed strongest sales
-- Overall profit margin was 31%
+- Books as the top revenue category 
